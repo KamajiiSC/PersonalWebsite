@@ -19,6 +19,10 @@ nav ul li{
   padding:2em;
 }
 
+#carousel{
+  margin:20em;
+}
+
 #intro{
   text-align: center;
 }
