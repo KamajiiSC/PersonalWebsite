@@ -36,7 +36,11 @@ nav ul li{
 }
 
 footer{
+  text-align:center;
   position:fixed;
   width:100%;
   bottom:0;
+}
+footer a{
+  margin-right:5em;
 }
