@@ -2,10 +2,10 @@ nav{
   margin-left:1.5em;
 }
 nav h1{
-    margin:0;
-    padding:0;
-    display: inline;
-   }
+  margin:0;
+  padding:0;
+  display: inline;
+}
 nav ul{
   display:inline;
   text-align: right;
@@ -16,4 +16,16 @@ nav ul li{
   text-decoration: none;
   display: inline;
   padding:2em;
+}
+
+#intro{
+  text-align: center;
+}
+#intro ul{
+  display: inline-block;
+}
+#intro ul li{
+  display: inline-block;
+  margin-right:.5em;
+  text-decoration: none;
 }
