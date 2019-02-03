@@ -1,2 +1,19 @@
-h1{color: blue;}
-
+nav{
+  margin-left:1.5em;
+}
+nav h1{
+    margin:0;
+    padding:0;
+    display: inline;
+   }
+nav ul{
+  display:inline;
+  text-align: right;
+  margin-left:53%;
+  padding:0;
+}
+nav ul li{
+  text-decoration: none;
+  display: inline;
+  padding:2em;
+}
