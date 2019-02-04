@@ -5,7 +5,9 @@ body{
 }
 nav{
   background:white;
+  padding-top:1em;
   padding-left:1.5em;
+  padding-bottom:1em;
 }
 nav h1{
   margin:0;
