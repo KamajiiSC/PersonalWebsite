@@ -40,15 +40,21 @@ nav ul li a{
 }
 
 #intro{
+  margin-right:5%;
+  margin-left:5%;
   text-align: center;
 }
-#intro ul{
-  display: inline-block;
+#intro h3{
+  font-weight:bold;
+  font-size:35px;
 }
-#intro ul li{
-  display: inline-block;
-  margin-right:.5em;
-  text-decoration: none;
+#intro div{
+  font-size:25px;
+  
+  float:right;
+}
+#intro div p{
+  padding-right:4em;
 }
 
 footer{
