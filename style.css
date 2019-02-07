@@ -56,6 +56,18 @@ nav ul li a{
 #intro div p{
   padding-right:4.2em;
 }
+#green{
+  padding-left:2em;
+  background-color:green;
+}
+#red{
+  padding-left:1.5em;
+  background-color:red;
+}
+#blue{
+  
+  background-color:blue;
+}
 
 footer{
   padding-top:1em;
