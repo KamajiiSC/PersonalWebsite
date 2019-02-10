@@ -64,10 +64,12 @@ nav ul li a{
 #green{
   padding-left:1.9em;
   background-color:#41f46e;
+  border-radius: 0px 40px 0px 0px;
 }
 #red{
   padding-left:2.9em;
   background-color:#ea3a5a;
+  border-radius: 40px 0px 0px 0px;
 }
 #blue{
   padding-right:2.2em;
