@@ -17,12 +17,12 @@ nav h1{
 nav ul{
   display:inline;
   text-align: right;
-  margin-left:53%;
+  margin-left:56.5%;
   padding:0;
 }
 nav ul li{
   display: inline;
-  padding:2em;
+  padding:1.6em;
 }
 nav ul li a{
   color:black;
