@@ -79,15 +79,18 @@ nav ul li a{
 
 #bio{
   display:inline-block;
+  padding-top:2em;
 }
 #bio img{
+  padding-left:2%;
   height:20em;
   width:30em;
   float:left;
 }
 #bio p{
-padding-left: 35%;
-padding-right: 5%;
+  font-size:24px;
+padding-left: 37%;
+padding-right: 4%;
 }
 
 footer{
