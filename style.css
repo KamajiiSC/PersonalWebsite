@@ -77,6 +77,18 @@ nav ul li a{
   background-color:#42a4f4;
 }
 
+#bio{
+  display:inline-block;
+}
+#bio img{
+  height:20em;
+  width:30em;
+  float:left;
+}
+#bio p{
+
+}
+
 footer{
   padding-top:1em;
   padding-bottom:.5em;
