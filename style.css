@@ -102,6 +102,13 @@ footer{
   width:100%;
   bottom:0;
 }
+
+
+#projectlist img{
+  height: 15em;
+  width: 15em;
+}
+
 footer a{
   margin-right:5em;
   color:white;
