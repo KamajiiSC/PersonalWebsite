@@ -107,8 +107,17 @@ footer{
   margin-top:2em;
   margin-left:10%;
 }
+#projectlist ul li{
+  padding-right: 8em;
+  display:inline;
+  float: left;
+ }
 #projectlist img{
   height: 15em;
+  width: 20em;
+}
+.imgwtext{
+  text-align: justify;
   width: 20em;
 }
 
