@@ -103,10 +103,13 @@ footer{
   bottom:0;
 }
 
-
+#projectlist{
+  margin-top:2em;
+  margin-left:10%;
+}
 #projectlist img{
   height: 15em;
-  width: 15em;
+  width: 20em;
 }
 
 footer a{
