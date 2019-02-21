@@ -121,6 +121,14 @@ footer{
   width: 20em;
 }
 
+#contactForm{
+  margin:10em 40% 1em 42%;
+}
+#contactForm input{
+  margin-left:.5em;
+  margin-bottom:5em;
+}
+
 footer a{
   margin-right:5em;
   color:white;
