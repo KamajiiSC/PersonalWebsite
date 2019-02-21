@@ -128,8 +128,9 @@ footer{
   margin-left:.5em;
   margin-bottom:5em;
 }
-#contactForm input[name='message']{
-padding-bottom:5em;
+#contactForm textarea{
+padding-top:5em;
+margin-left:.5em;
 }
 
 footer a{
