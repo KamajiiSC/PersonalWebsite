@@ -24,6 +24,9 @@ nav ul li{
   display: inline;
   padding:1.6em;
 }
+nav ul li:hover{
+  background-color: rgba(206, 206, 206, 0.493); 
+}
 nav ul li a{
   color:black;
   text-decoration: none;
