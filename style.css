@@ -134,9 +134,16 @@ padding-top:5em;
 margin-left:.5em;
 }
 
+.skills{
+  display:inline-block;
+}
 .skills img{
+
   height: 10em;
   width: 15em;
+}
+.right{
+  
 }
 
 footer a{
